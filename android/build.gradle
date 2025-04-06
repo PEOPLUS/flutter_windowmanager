@@ -1,5 +1,5 @@
 group 'io.adaptant.labs.flutter_windowmanager'
-version '1.0'
+version '1.1'
 
 buildscript {
     repositories {
